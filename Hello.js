@@ -5,7 +5,7 @@ export default class App extends React.Component {
    render() {
       return (
          <View>
-            <Text>Welcome to Tutorialspoint</Text>
+            <Text>Welcome to React</Text>
          </View>
       );
    }
